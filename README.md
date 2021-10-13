@@ -30,7 +30,7 @@
 
 📊 **This Week I Spent My Time On:**
 
-![Jan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@JanGimenezLayola&bg_color=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97&hide_border=true)
+![Jan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JanGimenezLayola&bg_color=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97&hide_border=true)
 
 📈 **My GitHub Stats:**
 
