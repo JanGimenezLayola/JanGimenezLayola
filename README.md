@@ -35,7 +35,7 @@
 📈 **My GitHub Stats:**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=JanGimenezLayola&show_icons=true&bg_color=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97&hide_border=true" />
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=JanGimenezLayola&show_icons=true&bg_color=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97&hide_border=true&count_private=true" />
     </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanGimenezLayola&layout=compact&theme=tokyonight&bg_color=151515&title_color=fff&text_color=9f9f9f&icon_color=79ff97&hide_border=true" />
