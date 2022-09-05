@@ -20,7 +20,7 @@
   <p>🌱 I’m currently learning <b>a lot of new things</b></p>
   <p>💬 Ask me about <b>React and React Native</b></p>
   <p>📫 Reach me by email at <b>gilajan <i>AT</i> proton <i>DOT</i> me</b></p>
-  <p>:headphones: I'm currently istening:</p>
+  <p>:headphones: I'm currently listening:</p>
    <a href="https://spotify-github-profile.vercel.app/api/view?uid=8z6ivbfwxce593p4s8dz1o111&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=8z6ivbfwxce593p4s8dz1o111&cover_image=true&theme=novatorem" />
   </a>
