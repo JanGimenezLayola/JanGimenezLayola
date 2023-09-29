@@ -17,8 +17,8 @@
 <div align="center">
   <p>:man_technologist: Product Software Engineer at <b>finsit</b></p>
   <p>❤ I love <b>code</b></p>
-  <p>🌱 I’m currently learning <b>a lot of new things</b></p>
-  <p>💬 Ask me about <b>React and React Native</b></p>
+  <p>🌱 I’m currently learning <b>emacs</b></p>
+  <p>💬 Ask me about <b>JavaScript</b></p>
   <p>📫 Reach me by email at <b>gilajan <i>AT</i> proton <i>DOT</i> me</b></p>
   <p>:headphones: I'm currently listening:</p>
    <a href="https://spotify-github-profile.vercel.app/api/view?uid=8z6ivbfwxce593p4s8dz1o111&redirect=true">
